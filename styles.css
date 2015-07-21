@@ -39,3 +39,9 @@
   min-height: 70px;
   outline: none;
 }
+
+.close {
+  width: 10px;
+  position: relative;
+  left: 140px;
+}
